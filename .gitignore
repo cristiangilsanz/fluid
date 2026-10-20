@@ -1,0 +1,9 @@
+build/
+cmake-build-*/
+out/
+.idea/
+.vscode/
+.vs/
+__pycache__/
+*.pyc
+/output.fld
